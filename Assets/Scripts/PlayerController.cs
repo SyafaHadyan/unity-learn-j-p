@@ -1,8 +1,8 @@
 using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
-    public float carSpeed = 50f;
-    public GameObject player;
+    public float carSpeed = 35f;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
